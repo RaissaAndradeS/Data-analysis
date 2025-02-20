@@ -62,7 +62,8 @@ O curso é dividido em **8 módulos**:
 │── Notebooks/  # Scripts em R e SQL
 │── Projetos/   # Estudos de caso e análises
 │── Anotações/  # Resumos e insights
-└── Recursos/   # Links e materiais extras
+|── Recursos/   # Links e materiais extras
+└── Prints/  # Prints do material
 ```
 
 

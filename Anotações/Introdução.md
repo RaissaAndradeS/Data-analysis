@@ -1,4 +1,4 @@
-## Análise de Dados do Google 
+## <center> Análise de Dados do Google </center> 
 
 ### Sabe o que todas as empresas têm em comum? 
 Todas elas usam dados! Todas precisam de analistas de dados para ajudar a melhorar os processos, identificar e tomar decisões. <br>
@@ -21,3 +21,18 @@ Um analista de dados é alguém que coleta, transforma e organiza dados para aju
 <br>
 
 <ins>Limpeza de dados é o coração e a alma dos dados.</ins> 
+
+### Visão Geral
+
+![alt text](../Prints/image.png)
+
+1. Fundamentos: Dados, dados, em toda parte
+2. Faça pergunta para tomar tomada de decisões com base em dados
+3. Preparar dados para exploração
+4. Processar dados sujos e limpos
+5. Analisar dados para responder a perguntas
+6. Compartilhe dados por meio da arte da visualisação
+7. Análise de dados com programação R
+8. Trabalho de conclusão de curso do Google Analytics
+
+

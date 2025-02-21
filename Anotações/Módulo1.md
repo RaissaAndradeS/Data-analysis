@@ -19,3 +19,74 @@ Importante lembrar que nem sempre é possível avançar nas etapas de forma line
 ``Um analista de dados é um explorador, um detetive e um artista, tudo em um.`` <br>
 
 ### Entenda o Ecossistema de Dados
+A Análise de dados tem suas raízes na estatística. Egípcios organizavam dados como mestres.<br>
+
+- ``` Perguntar``` = desafio, objetivo ou questão comercial.
+- ```Preparar``` = geração de dados, coleta, armazenamento e gerenciamento de dados.   
+```Processar``` = limpeza de dados e integridade dos dados. 
+- ```Analisar``` = exploração, visualização de dados e análise.
+- ```Compartilhar``` = comunicar e interpretar resultados.
+- ```Agir``` = colocar os insights em prática para resolver o problema.  <br>
+<br>
+<br>
+
+Processo de análise de dados da EMC é cíclico, elaborado em seis etapas:
+
+1. Descoberta 
+2. Pré-processamento de dados
+3. Planejamento de modelos 
+4. Construção do modelo
+5. Comunicação dos resultados 
+6. Operacionalização 
+
+Esse modelo foi criado por David Dietrich, considera a natureza cíclica dos projetos comerciais típicos. Onde as etapas se conectam e levam ao próximo passo e por fim, se repete.<br>
+
+O processo iterativo do SAS, pode ser usado para produzir resultados repetíveis, confiáveis e preditivos:
+
+1. Perguntar
+2. Prepare-se
+3. Explorar 
+4. Modelar
+5. Implementar
+6. Agir 
+7. Avaliar
+
+Esse modelo AS, com enfâse a natureza cíclica do seu modelo, parecendo com o símbolo de infinito. O que difere esse modelo, é a avaliação após agit, criada para ajudar os analistas a avaliar suas soluções. <br>
+<br>
+<br>
+
+Processo de análise de dados baseados em projetos: 
+
+1. Identificação do problema
+2. Design de requisitos de dados
+3. Pré-processamento de dados
+4. Realização da análise de dados
+5. Visualização de dados
+
+Processo criado por Vignesh Prajapati, não inclui algumas fases. <br>
+<br>
+
+Processo de análise de dados de Big Data, o processo tem as seguintes fases: 
+
+1. Avaliação dos casos de negócios
+2. Identificação de dados
+3. Aquisição e filtragrem de dados 
+4. Extração de dados
+5. Validação e limpeza de dados
+6. Agregação e representação de dados
+7. Análise de dados
+8. Visualização de dados
+9. Utilização dos resultados da análise
+
+Esse processo foi criado pro Thomas Erl, Wajid Khattak e Paul Buhler apresentaram em seu livro, Big Data Fundamentals: Concepts, Drivers & Techniques. Esse processo parece ser maior do que dos anteriores mas ele apenas é dividido. Preparação e processo são etapas menores, esse processo da mais enfâse em tarefas individuais.<br>
+<br>
+
+O Processo de análise de dados é como a arquitetura da vida real: Tem diversas maneiras de fazer as coisas, mas as mesmais ideias centrais ainda aparecem em cada modelo do processo.<br>
+
+Um ecossistema é um grupo de elementos que interagem um com os outros. Os ecossistemas podem ser grandes, como a selva em uma floresta tropical ou o interior australiano ou minúsculos, como bactérias na pele.<br>
+*Ecossistema de dados* são compostos por vários elementos que interagem entre si para produzir, gerenciar, armazenar, organizar, analisar e compartilhar dados. Esses dados também podem ser encontrados na nuvem. *Nuvem é um local para manter os dados on-line.*<br>
+
+`Ciência de dados é definida como a criação de novas formas de modelar e entender o desconhecido usando dados brutos.` <br>
+Cientistas de dados criam novas perguntas usando dados, enquanto analistas encontram respostas para perguntas existentes criando insights a partir de fontes de dados.<br>
+`Data analytics é a ciência dos dados.`<br>
+Importante lembrar que esses conceitos fazem parte da análise dados.

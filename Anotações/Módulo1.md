@@ -89,4 +89,21 @@ Um ecossistema é um grupo de elementos que interagem um com os outros. Os ecoss
 `Ciência de dados é definida como a criação de novas formas de modelar e entender o desconhecido usando dados brutos.` <br>
 Cientistas de dados criam novas perguntas usando dados, enquanto analistas encontram respostas para perguntas existentes criando insights a partir de fontes de dados.<br>
 `Data analytics é a ciência dos dados.`<br>
-Importante lembrar que esses conceitos fazem parte da análise dados.
+Importante lembrar que esses conceitos fazem parte da análise dados. <br> <br>
+
+Outra forma eficiente de colocar os dados em funcionamento é com a tomada de decisões orientada por dados. Tomada de decisões com base em dados é definida como o uso de fatos para orientar a estratégia de negócios. <br>
+O primeiro passo é descobrir a necessidade do negócio. 
+
+### Dados e instinto 
+O instinto é uma compreensão intuitiva de algo com pouca ou nenhuma explicação. Nem sempre é algo consciente. É importante garantir que a atenção continue nos dados para tomadas de decisões informadas. <br>
+
+#### Dados + conhecimento de negócio = mistério resolvido 
+Uma parte comum no processamento como analista de dados junior é a combinação de dados com conhecimento de negócio e talvez um toque de instinto. A chave é descobrir a combinação exata para cada projeto específico. E isso depende dos objeticos da análise. <br>
+Perguntas sobre um projeto para ajudar a encontrar o Equilibrio perfeito: 
+    
+    - Que tipo de resultado são necessário?
+    - Quem será informado?
+    - Estou respondendo à pergunta que está sendo feita?
+    - Com que rapidez uma decisão precisa ser tomada?
+
+Uma comparação feita de analista de dados com detetives, ambos compartilham de uma abordagem semelhante para a solução de problemas, ambos se baseiam em evidências e fatos para tomar decisões. A tomada de decisões baseadas em dados é essencial para os analistas, mas o instinto também pode desempenhar um papel na identificação de padrões e conexões 

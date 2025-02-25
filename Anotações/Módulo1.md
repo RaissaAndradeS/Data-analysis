@@ -118,4 +118,24 @@ Habilidades analíticas são qualidades características associadas à solução
     - Estratégia de dados
 
 ### Pensamento analítico
+Envolve identificar e definir um problema e depois resolver usando dados de forma organizada, passo a passo. <br>
+
+    - Visualização
+    - Estratégia
+    - Orientação para problemas
+    - Correlação 
+    - Pensamento geral orientado a detalhes
+
+`Qual é a raiz do problema?`
+
+Para entender causas, há um processo chamado Cinco Porquês.
+Você se pergunta 5 vezes o porquê e a quinta vez deve te fornecer informações úteis.
+
+`Onde estão as lacunas em nosso processamento?`
+
+Analise de lacunas permite que você examine e avalie como um processo que funciona atualmente para chegar onde você ques estar no futuro.
+
+`O que não consideramos antes?`
+
+Quais informações ou procedimentos podem estar faltando em um processo?
 

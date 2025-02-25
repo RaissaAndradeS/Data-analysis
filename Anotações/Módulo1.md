@@ -106,4 +106,16 @@ Perguntas sobre um projeto para ajudar a encontrar o Equilibrio perfeito:
     - Estou respondendo à pergunta que está sendo feita?
     - Com que rapidez uma decisão precisa ser tomada?
 
-Uma comparação feita de analista de dados com detetives, ambos compartilham de uma abordagem semelhante para a solução de problemas, ambos se baseiam em evidências e fatos para tomar decisões. A tomada de decisões baseadas em dados é essencial para os analistas, mas o instinto também pode desempenhar um papel na identificação de padrões e conexões 
+Uma comparação feita de analista de dados com detetives, ambos compartilham de uma abordagem semelhante para a solução de problemas, ambos se baseiam em evidências e fatos para tomar decisões. A tomada de decisões baseadas em dados é essencial para os analistas, mas o instinto também pode desempenhar um papel na identificação de padrões e conexões. <br> <br>
+
+### Principais habilidades do Analista de dados
+Habilidades analíticas são qualidades características associadas à solução de problemas usando fatos.<br>
+
+    - Curiosidade
+    - Compreensão de texto
+    - Mentalidade técnica 
+    - Design de dados
+    - Estratégia de dados
+
+### Pensamento analítico
+

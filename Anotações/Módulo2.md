@@ -1,0 +1,13 @@
+### <center> Ciclo de vida dos dados </center>
+O ciclo de vida dos dados é planejar, capturar, gerenciar, analisar, arquivar e destruir. <br>
+
+*Planejamento* - Antes de começar um projeto de análise, durante o planejamento a empresa decide que tipo de dados precisa, como serão gerenciados ao longo do seu ciclo de vida, quem será o responsável por eles e os melhores resultados. <br>
+*Capturar dados* - Aqui os dados são coletados de várias fontes diferentes e trazidos para organização. <br>
+
+`Banco de dados é uma coleção de dados armazenados em um sistema de computador`
+
+*Gerencimaneto* - Como cuidar dos dados? Onde armazenar? Quais ações tomadas para garantir que sejam mantidos de forma correta? Essa fase é muito importante para a limpeza de dados. <br>
+*Analisar* - Os dados são usados para resolver problemas, tomar grandes decisões e apoiar as metas de negócios. <br>
+*Arquivamento* - Armazenar dados em um local onde eles ainda estejam disponíveis, mas não possam ser usados novamente. <br>
+*Destruição* - É importante destruir os dados depois de usados para proteger informações privadas de uma empresa, como os dados privados sobte seus clientes. <br>
+Esse é o ciclo de vida dos dados. 

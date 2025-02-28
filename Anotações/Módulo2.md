@@ -11,3 +11,6 @@ O ciclo de vida dos dados é planejar, capturar, gerenciar, analisar, arquivar e
 *Arquivamento* - Armazenar dados em um local onde eles ainda estejam disponíveis, mas não possam ser usados novamente. <br>
 *Destruição* - É importante destruir os dados depois de usados para proteger informações privadas de uma empresa, como os dados privados sobte seus clientes. <br>
 Esse é o ciclo de vida dos dados. 
+
+### Variações do Ciclo de vida dos dados 
+O ciclo de vida dos dados fornece um framework genérico ou comum para o gerenciamento dos dados. 

@@ -15,3 +15,11 @@ Esse é o ciclo de vida dos dados.
 ### Variações do Ciclo de vida dos dados 
 O ciclo de vida dos dados fornece um framework genérico ou comum para o gerenciamento dos dados. <br>
 Em resumo, embora os Ciclos de vida dos dados variem, um princípio de Gerenciamento de dados é universal: Governança de dados para que eles sejam precisos, seguros e estejam disponíveis para atender às necessidades de sua organização.
+
+### Fases 
+Perguntar = define o problema a ser resolvido e garantir o entendimento do problema, que as expectativas das partes interessadas estão alinhadas. <br>
+Preparação = coleta e armazena os dados que serão usados. <br>
+Processamento = encontrar e eliminar qualquer erro e imprecisão, ou seja, limpar os dados. <br>
+Analisar = Envolve o uso de ferramentas para transformar e organizar essas informações. <br>
+Compartilhamento = mostrar para as partes interessadas a tomar decisões eficazes baseadas em dados. <br>
+Ação = empresas pegam os insights e colocam em prática para resolver o problema. <br>

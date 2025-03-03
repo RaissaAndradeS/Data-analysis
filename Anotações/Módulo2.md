@@ -27,4 +27,23 @@ Ação = empresas pegam os insights e colocam em prática para resolver o proble
 Independente do tipo de análise de dados que você esteja conduzindo, o processo costuma ser o mesmo.
 
 ### Caixa de ferramentas de análise de dados 
-Há várias ferramentas disponíveis mas a mais comum são planilhas, linguagem de consulta e ferramenta de visualização. Duas opções populares são: Microsoft Excel e o Google Sheets. 
+Há várias ferramentas disponíveis mas a mais comum são planilhas, linguagem de consulta e ferramenta de visualização. Duas opções populares são: Microsoft Excel e o Google Sheets. Uma planilha digital, armazena, organiza e classifica dados. A utilidade dos dados depende de quão bem  estruturados eles estão.<br>
+Fórmula é um conjunto de instruções que executa um cálculo específico usando os dados em uma planilha.<br>
+Função é um comando predefinido que executa automaticamente um processamento ou tarefa específica usando os dados em uma planilha.<br>
+Linguagem de consulta é uma linguagem de programação de computador que permite recuperar e manipular dados de um banco de dados. <br>
+
+*SQL - Structured Query Language*
+
+SQL é uma linguagem que permite comunicação com o banco de dados. É fácil de entender e funciona com todos os tipos de banco de dados.<br>
+Banco de dados é uma coleção de dados armazenados em um sistema de computador. <br>
+Visualização de dados é a representação gráfica das informações, como, gráficos, mapas e tabelas. Algumas ferramentas de visualização conhecidas são Tableau, Looker e Power BI.<br>
+
+### Ferramenta certa
+De acordo com cada fase do processo, são usadas ferramentas diferentes. Se o caso for de visualizações complexas e atraentes, as ferramenas de visualização é a melhor opção, mas se o caso for para organização, limpeza e analise de dados, a dúvida fica entre planilhas e banco de dados usando consultas. Abaixo algumas diferenças: 
+
+![alt text](../Prints/PlanilhasEBD.png)
+
+No geral, trabalham com a combinação dos dois, pois as duas ferramentas são muito úteis. A escolha da ferramenta depende da tarefa específica em questão. Planilhas são mais para organizar, limpar e analisar conjunto de dados pequenos e médios. Banco de dados são ideais para armazaenas, gerenciar e analisar conjuntos de dados grandes e complexos. E geralmente costumam usar uma combinação de ambos e linguagens de programação para lidar com um grande conjunto de tarefas de análise de dados.<br>
+
+
+### Planilhas 

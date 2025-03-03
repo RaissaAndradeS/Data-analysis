@@ -46,4 +46,3 @@ De acordo com cada fase do processo, são usadas ferramentas diferentes. Se o ca
 No geral, trabalham com a combinação dos dois, pois as duas ferramentas são muito úteis. A escolha da ferramenta depende da tarefa específica em questão. Planilhas são mais para organizar, limpar e analisar conjunto de dados pequenos e médios. Banco de dados são ideais para armazaenas, gerenciar e analisar conjuntos de dados grandes e complexos. E geralmente costumam usar uma combinação de ambos e linguagens de programação para lidar com um grande conjunto de tarefas de análise de dados.<br>
 
 
-### Planilhas 

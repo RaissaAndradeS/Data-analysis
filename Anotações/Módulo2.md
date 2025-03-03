@@ -23,3 +23,8 @@ Processamento = encontrar e eliminar qualquer erro e imprecisão, ou seja, limpa
 Analisar = Envolve o uso de ferramentas para transformar e organizar essas informações. <br>
 Compartilhamento = mostrar para as partes interessadas a tomar decisões eficazes baseadas em dados. <br>
 Ação = empresas pegam os insights e colocam em prática para resolver o problema. <br>
+
+Independente do tipo de análise de dados que você esteja conduzindo, o processo costuma ser o mesmo.
+
+### Caixa de ferramentas de análise de dados 
+Há várias ferramentas disponíveis mas a mais comum são planilhas, linguagem de consulta e ferramenta de visualização. Duas opções populares são: Microsoft Excel e o Google Sheets. 

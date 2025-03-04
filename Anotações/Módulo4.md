@@ -28,3 +28,13 @@ Outra responsabilidade muito importante, é garantir que suas análises sejam ju
 
 ![alt text](../Prints/imp5.png)
 
+
+### Dicas 
+
+- Pense em uma ocasião que você usou dados para resolver um problema, seja em seus projetos profissionais ou pessoais. <br>
+- Aumentar sua rede profissional. <br>
+- É muito imrpotante manter o LinkedIn e o GitHub atualizados, que você possa mostrar muitos projetos de analistas de dados que você fez. <br>
+- Preparar perguntas para o entrevistador. <br>
+
+
+![alt text](../Prints/decoding.png)

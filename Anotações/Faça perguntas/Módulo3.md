@@ -29,3 +29,11 @@ Um intervalo de células é uma coleção de duas ou mais células. Um intervalo
 `#NUM!` = nos diz que o cálculo de uma fórmula não pode ser executado conforme especificado pelos dados. <br>
 `#VALUE!` = pode indicar um problema com uma fórmula ou células referenciadas. <br>
 `#REF!` = geralmente surge quando as células referenciadas em uma fórmula são excluídas, tornando a fórmula incapaz de realizar o cálculo. <br>
+
+### Funções 101
+Uma função é um comando predefinido que executa automaticamente um processamento ou tarefa específica usando os dados. <br>
+
+### Pensamento estruturado 
+Pensamento estruturado é o processo de reconhecer o problema ou situação atual, organizar as informações disponíveis, revelar lacunas e oportunidades e identificar as opções. <br>
+
+Escopo de trabalho ou SOW é um esboço acordado do trabalho que você executará em um projeto. 

@@ -42,3 +42,9 @@ Esses dados são estruturados. <br>
 ![alt text](<../../Prints/Módulo 3/Captura de tela 2025-03-07 153617.png>)
 
 ![alt text](<../../Prints/Módulo 3/Captura de tela 2025-03-07 153646.png>)
+
+### Dados amplos e longos 
+Com dados amplos, cada sujeito de dados tem uma única linha com várias colunas para conter os valores de vários atributos do assunto. <br>
+
+`Dados amplos` permite que você identifique e compare rapidamente diferentes colunas. <br>
+`Dados longos` são dados em que cada linha é um ponto no tempo por sujeito, portanto, cada sujeito terá dados em várias linhas. <br>

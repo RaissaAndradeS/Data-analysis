@@ -14,3 +14,13 @@ Há três tipos de metadados, eles são: descritivos, estruturais e administrati
 Descritivos são metadados que descrevem um dado e podem ser usados para identificá-lo posteriormente. <br>
 Estruturais indicam como um dado é organizado e se faz parte de uma ou mais de uma coleta de dados. <br>
 Administrativos indicam a fonte técnica de um recurso digital. <br>
+
+`Dados internos` residem nos sistemas da própria empresa. <br>
+`Dados externos` são gerados fora de uma organização. <br>
+
+Arquivo CSV siginifica valores separados por vírgula. <br>
+
+Classificação envolve organizar os dados em uma ordem significativa para facilitar a compreensão, a análise e a visualização. <br>
+
+Filtragem significa mostrar somente os dados que atendem a um critério específico e ocultar o restante. <br>
+

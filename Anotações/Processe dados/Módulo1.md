@@ -36,3 +36,16 @@ Existe uma chance de 60% de ser confiável e 40% de chance de ser errado. <br>
 
 Geralmente, precisa de um poder estatístico de pelo menos 0,8 ou 80% para considerar seus resultados estatisticamente significativos. <br>
 
+O nível de confiança é a probabilidade de sua amostra refletir com precisão a maior população. <br>
+
+### Margem de erro 
+
+É o máximo em que se espera que os resultados da amostra sejam diferentes dos da população real. <br>
+Ajuda a entender a confiabilidade dos dados do seu teste de hipótese. <br>
+
+*Para calcular a margem de erro:*
+
+    - Tamanho da população
+    - Tamanho da amostra 
+    - Nível de confiança
+

@@ -20,3 +20,16 @@ Dados limpos são completos, corretos e relevantes para o problema que você est
         - Os conjuntos de dados precisam ser limpos ou estão prontos para eu usar?
         - Os conjuntos de dados são limpos de acordo com o mesmo padrão? 
         
+`Formatação condicional` é uma ferramenta de planilha que altera a forma como as células aparecem quando os valores atendem a condições específicas. <br>
+`Remover duplicatas` é uma ferramenta que pesquisa e elimina automaticamente entradas duplicadas de uma planilha. <br>
+`Sequência de texto` é um grupo de caracteres dentro de uma célula geralmente composto por letras. <br>
+`Split` é uma ferramenta que divide uma sequência de texto em torno do caractere especificado e coloca cada fragmento em uma célula nova e separada. <br>
+`Concatenate` é uma função que une várias cadeias de texto em uma única string. <br>
+`Countif` é uma função que retorna o número de células que correspondem a um valor especificado. <br>
+`Sintaxe` é uma estrutura predeterminada que inclui todas as informações necessárias e seu posicionamento adequado. <br>
+`Len` é uma função que informa o tamanho da sequência de texto contando o número de caracteres que ela contém. <br>
+`Left` é uma funçaõ que fornece um número definido de caracteres do lado esquerdo de uma string de texto. <br>
+`Right` é uma função que fornece um número definido de caracteres do lado direito de uma string de texto. <br>
+`Mid` é um afunção que fornece um segmento do meio de uma sequência de texto. <br>
+`Trim` é uma função que remove espaços iniciais, finais e repetidos nos dados. <br>
+`Tabela dinâmica` é uma ferramenta de resumo de dados usada no processamento de dados. <br>

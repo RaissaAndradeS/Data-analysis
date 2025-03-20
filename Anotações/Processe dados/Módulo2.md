@@ -33,3 +33,5 @@ Dados limpos são completos, corretos e relevantes para o problema que você est
 `Mid` é um afunção que fornece um segmento do meio de uma sequência de texto. <br>
 `Trim` é uma função que remove espaços iniciais, finais e repetidos nos dados. <br>
 `Tabela dinâmica` é uma ferramenta de resumo de dados usada no processamento de dados. <br>
+`Vlookup` pesquisa vertical. É uma função que busca um determinado valor em uma coluna para retornar uma informação correspondente. <br>
+`Mapeamento dos dados` é o processo de correspondência de campos de um banco de dados para outro.

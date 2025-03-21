@@ -1,0 +1,1 @@
+### <center> SQL para limpar os dados </center>

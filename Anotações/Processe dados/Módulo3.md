@@ -36,4 +36,8 @@ A SQL é a principal maneira pela qual os analistas de dados extraem dados de ba
 
 Em SQL podemos remover duplicatas incluindo `DISTINCT` em nosso SELECT. `LEN` para retornar o tamanho da string. `TRIM` para remover espaços indesejados. <br>
 
-`CAST` pode ser usado para converter qualquer coisa de um tipo de dados para outro. 
+`CAST` pode ser usado para converter qualquer coisa de um tipo de dados para outro. <br>
+
+`CONCAT` permite que você adicione cadeias de caracteres para criar novas sequências de texto que podem ser usadas como chaves exclusivas. <br>
+
+`COALESCE` pode ser usado para retornar valores não nulos em uma lista. <br>

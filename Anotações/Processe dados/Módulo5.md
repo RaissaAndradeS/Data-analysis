@@ -21,3 +21,18 @@ Outro exemplo: "Gerenciar recursos de dados de forma eficaz" ou "Gerenciou com e
 `Concluiu X medido por Y, fazendo Z.`
 
 Exemplo: "selecionado como um dos 275 participantes em todo o país para este programa de desenvolvimento profissional de 12 meses para talentos de alto desempenho com base no potencial de liderança e no sucesso acadêmico."
+
+Para ser analista de dados, o curriculo precisa mostrar que você é um comunicador claro. <br>
+
+    - Problem
+    - Action
+    - Result
+
+Exemplo: "Conquistou um site pouco conhecido mais de 2.000 novos cliques por meio de blogs estratégicos" <br>
+O site ser pouco conhecido é o problema, a ação estratégica é o blog estratégico e o resultado são 2.000 novos cliques. <br>
+
+Habilidades transferíveis são habilidades e qualidades que podem ser transferidas de um emprego ou setor para outro. <br>
+
+Soft Skills ou habilidades socais: habilidades comportamentais são características e comportamentos não técnicos relacionados à forma como você trabalha. <br>
+
+Habilidades técnicas são muito importantes também, SQL, planilhas, R ou Python, visualização de dados são exemplos disso. <br>

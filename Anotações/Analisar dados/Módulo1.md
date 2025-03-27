@@ -15,3 +15,6 @@ As tabelas ajudam a organizar tipos semelhantes de dados em categorias áreas de
 
 A Classificação é quando você organiza os dados em uma ordem significativa para facilitar a compreensão, a análise e a visualização. A classificação classifica seus dados com base em uma métrica específica que você pode escolher. <br>
 Filtragem mostra somente os dados que atendem a um critério específico e oculta o restante. Pode ser usado para reduzir a quantidade de dados que deseja filtrar. <br>
+
+Se classificar planilhas for aplicado, todos os dados em uma planilha serão classificados pelas condições de uma única coluna, mas as informações relacionadas em cada linha permanecerão juntas. <br>
+Classificar intervalo não mantém as informações nas linhas juntas. Ao classificar um intervalo, você está selecionando uma coleção específica de células ou o intervalo ao qual deseja limitar a classificação. <br>

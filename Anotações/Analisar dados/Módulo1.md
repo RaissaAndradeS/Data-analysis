@@ -18,3 +18,8 @@ Filtragem mostra somente os dados que atendem a um critério específico e ocult
 
 Se classificar planilhas for aplicado, todos os dados em uma planilha serão classificados pelas condições de uma única coluna, mas as informações relacionadas em cada linha permanecerão juntas. <br>
 Classificar intervalo não mantém as informações nas linhas juntas. Ao classificar um intervalo, você está selecionando uma coleção específica de células ou o intervalo ao qual deseja limitar a classificação. <br>
+Uma ordem de classificação personalizada ocorre quando você classifica dados em uma planilha usando várias condições. <br>
+
+### Classificação de dados com SQL
+
+`ORDEY BY` para cassificar os resultados retornados em uma consulta. <br>

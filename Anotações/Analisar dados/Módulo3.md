@@ -39,3 +39,15 @@ Um `RIGHT JOIN` faz o oposto. Ele retorna todos os registros da tabela direita e
 ![alt text](<../../Prints/Módulo 5/Captura de tela 2025-03-30 205307.png>)
 
 Um `OUTER JOIN` combina `RIGHT` e `LEFT` join para retornar todos os registros correspondentes em ambas as tabelas. <br>
+
+### Trabalhar com subconsultas 
+
+Uma subconsulta é uma consulta SQL aninhada dentro de uma consulta maior. <br>
+A instrução contendo a subconsulta também pode ser chamada de consulta externa ou seleção externa. <br>
+Isso torna a subconsulta a consulta interna ou selecção interna. <br>
+
+ [Exemplo4.sql](../../Notebooks/Exemplo4.sql) <br>
+
+ `HAVING` basicamente permite que você adicione um filtro à sua consulta em vez da tabela subjacente ao trabalhar com funções agregadas. <br>
+ `CASE` retorna registros com suas condições, permitindo que você inclua declarações if/then em sua consulta. <br>
+ `aliasing` é quando você nomeia temporariamente uma tabela ou coluna em sua consulta para facilitar a leitura e a gravação. <br>

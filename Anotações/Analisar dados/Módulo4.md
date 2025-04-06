@@ -6,3 +6,4 @@ Relembrando: formatação condicional é uma ferramenta de planilha que altera a
 
 Tabela de resumo simples é usada para resumir informações estatísticas sobre dados. <br>
 
+### Funções e condições 

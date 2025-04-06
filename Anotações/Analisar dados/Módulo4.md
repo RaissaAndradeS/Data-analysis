@@ -7,3 +7,7 @@ Relembrando: formatação condicional é uma ferramenta de planilha que altera a
 Tabela de resumo simples é usada para resumir informações estatísticas sobre dados. <br>
 
 ### Funções e condições 
+
+`SUMIF` é uma função que adiciona dados numéricos com base em uma condição. 
+
+`=SUMIF(range,criteria/condition,[sum_range])`

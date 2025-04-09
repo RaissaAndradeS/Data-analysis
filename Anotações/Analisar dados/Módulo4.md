@@ -47,4 +47,42 @@ Planilhas de exemplo podem incluir colunas como Produto, Região, Trimestre e Ve
 ### Tabela dinâmica
 
 Tabelas dinâmicas permitem que você visualize dados de várias maneiras para encontrar insights e tendências. <br>
+Um campo calculado é um novo campo em uma tabela dinâmica que realiza determinados cálculos com base nos valores de outros campos. <br>
 
+### Cálculos SQL
+
+Um operador é um símbolo que nomeia o tipo de operação ou cálculo a ser executado em uma fórmula. 
+
+_A sintaxe de uma consulta é sua estrutura._
+
+    SELECT 
+        columnA,
+        columnB,
+        columnA + columnB AS columnX
+    FROM
+        table_name
+
+|ColumnA| ColumnB| ColumnX |
+|-------|--------|-------- |
+|A1     |B1      | Sum of A1 + B1 |
+|A2     |B2      | Sum of A2 + B2 |
+|A3     |B3      | Sum of A3 + B3 |
+
+
+     SELECT 
+        columnA,
+        columnB,
+        columnC,
+        (columnA + columnB) * columnC AS columnX
+    FROM
+        table_name
+
+|ColumnA| ColumnB| ColumnC |ColumnX  |
+|-------|--------|---------|---------|
+| A1    | B1     | C1 | (A1 + B1)*C1 |
+| A2    | B2     | C2 | (A2 + B2)*C2 |
+| A3    | B3     | C3 | (A3 + B3)*C3 |
+
+
+Operador de módulo é representado pelo símbolo de porcentagem. Esse é um operador que retorna o restante quando um número é dividido por outro. 
+O mesmo cálculo pode ser feito em planilha usando `MOD`. 

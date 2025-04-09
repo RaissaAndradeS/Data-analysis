@@ -46,4 +46,5 @@ Planilhas de exemplo podem incluir colunas como Produto, Região, Trimestre e Ve
 
 ### Tabela dinâmica
 
-Tabelas dinâmicas permitem que você visualize dados de várias maneiras para encontrar insights e tendências. 
+Tabelas dinâmicas permitem que você visualize dados de várias maneiras para encontrar insights e tendências. <br>
+

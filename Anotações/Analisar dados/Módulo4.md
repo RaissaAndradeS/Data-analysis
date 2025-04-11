@@ -97,3 +97,12 @@ Sublinhados são as linhas usadas para sublinhar palavras e conectar caracteres 
 
 [Exemplo 6 de SQL](../../Notebooks/Exemplo6.sql)
 
+
+### Validação de dados 
+
+Esse processo envolve verificar e verificar novamente a qualidade de seus dados, para que sejam completos, precisos, seguros e consistentes.
+
+
+### Tabelas temporárias 
+
+É uma tabela de banco de dados que é criada e existe temporariamente em um servidor de banco de dados. Elas armazenam subconjuntos de dados das tabelas de dados padrão por um determinado período de tempo. Elas são excluídas automaticamente quando você encerra a sessão do banco de dados SQL. 

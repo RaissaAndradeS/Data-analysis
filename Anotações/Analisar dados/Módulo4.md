@@ -85,4 +85,15 @@ _A sintaxe de uma consulta é sua estrutura._
 
 
 Operador de módulo é representado pelo símbolo de porcentagem. Esse é um operador que retorna o restante quando um número é dividido por outro. 
-O mesmo cálculo pode ser feito em planilha usando `MOD`. 
+O mesmo cálculo pode ser feito em planilha usando `MOD`.  <br>
+
+Sublinhados são as linhas usadas para sublinhar palavras e conectar caracteres de texto. 
+
+[Exemplo 5 de SQL](../../Notebooks/Exemplo5.sql)
+
+
+`GROUP BY` é um comando que agrupa linhas que têm os mesmos valores de uma tabela em linha de resumo. <br>
+`Comando de extract` adiciona um parênteses aberto, seguido por YEAR.
+
+[Exemplo 6 de SQL](../../Notebooks/Exemplo6.sql)
+

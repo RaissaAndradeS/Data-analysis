@@ -106,3 +106,10 @@ Esse processo envolve verificar e verificar novamente a qualidade de seus dados,
 ### Tabelas temporárias 
 
 É uma tabela de banco de dados que é criada e existe temporariamente em um servidor de banco de dados. Elas armazenam subconjuntos de dados das tabelas de dados padrão por um determinado período de tempo. Elas são excluídas automaticamente quando você encerra a sessão do banco de dados SQL. 
+
+A cláusula `WITH` é um tipo de tabela temporária que você pode consultar várias vezes. 
+
+[Exemplo de SQL](../../Notebooks/Exemplo7.sql)
+
+`SELECT INTO` copia dados de uma tabela para uma nova tabela, mas não adiciona a nova tabela ao banco de dados. 
+

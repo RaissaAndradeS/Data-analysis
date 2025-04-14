@@ -26,3 +26,13 @@ Gráfico de barras usam contraste de tamanho para comparar dois ou mais valores.
 Gráfico de linha são um tipo de visualização que pode ajudar seu público a entender mudanças ou mudanças em seus dados. <br>
 Gráfico circulares mostram o quanto cada parte de algo compõe o todo. <br>
 Mapas ajudam a organizar os dados geograficamente. <br>
+
+Uma de suas maiores considerações ao criar uma visualização de dados é onde você gostaria que seu público se concentrasse. <br>
+
+Um histograma se assemelha a um gráfico de barras, mas é um gráfico que mostra com que frequência os valores dos dados se enquadram em determindos intervalos. <br> 
+
+Os gráficos de correlação podem mostrar relações entre os dados. <br>
+
+Causalidade ou relação de causa e efeito ocorre quando uma ação leva diretamente a um resultado. <br>
+
+![alt text](<../../Prints/Módulo 7/image.png>)

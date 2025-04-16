@@ -36,3 +36,4 @@ Os gráficos de correlação podem mostrar relações entre os dados. <br>
 Causalidade ou relação de causa e efeito ocorre quando uma ação leva diretamente a um resultado. <br>
 
 ![alt text](<../../Prints/Módulo 7/image.png>)
+

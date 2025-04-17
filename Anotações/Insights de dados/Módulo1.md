@@ -37,3 +37,4 @@ Causalidade ou relação de causa e efeito ocorre quando uma ação leva diretam
 
 ![alt text](<../../Prints/Módulo 7/image.png>)
 
+### Visualizações dinâmicas 

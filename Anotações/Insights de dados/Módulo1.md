@@ -38,3 +38,6 @@ Causalidade ou relação de causa e efeito ocorre quando uma ação leva diretam
 ![alt text](<../../Prints/Módulo 7/image.png>)
 
 ### Visualizações dinâmicas 
+
+As visualizações estáticas não mudam com o tempo, a menos que sejam editadas. <br>
+As visuaizações dinâmicas são interativas ou mudam com o tempo. <br>

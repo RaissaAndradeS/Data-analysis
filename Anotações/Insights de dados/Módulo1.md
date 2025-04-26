@@ -45,3 +45,6 @@ As visuaizações dinâmicas são interativas ou mudam com o tempo. <br>
 Tableau é uma plataforma de análise e inteligência de negócios que ajuda as pessoas a ver, entender e tomar decisões com dados. As visualizações no Tableau são automaticamente interativas. <br>
 
 
+
+
+
